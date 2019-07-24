@@ -1,0 +1,62 @@
+[
+    {
+      "url": "https://www.google.com/",
+      "crawlTime": 1,
+      "waitTime": 5,
+      "threshold": 3
+    },
+    {
+      "url": "https://www.health.test/",
+      "crawlTime": 1,
+      "waitTime": 4,
+      "threshold": 8
+    },
+    {
+      "url": "https://www.amazon.com/",
+      "crawlTime": 1,
+      "waitTime": 5,
+      "threshold": 3
+    },
+    {
+      "url": "https://www.cms.test/",
+      "crawlTime": 1,
+      "waitTime": 4,
+      "threshold": 8
+    },
+    {
+      "url": "https://www.flipkart.com/",
+      "crawlTime": 1,
+      "waitTime": 5,
+      "threshold": 4
+    },
+    {
+      "url": "https://www.instagram.com/",
+      "crawlTime": 1,
+      "waitTime": 5,
+      "threshold": 4
+    },
+    {
+      "url": "https://www.jobportal.test/",
+      "crawlTime": 1,
+      "waitTime": 4,
+      "threshold": 8
+    },
+    {
+      "url": "https://www.nikitesh.test/",
+      "crawlTime": 1,
+      "waitTime": 4,
+      "threshold": 7
+    },
+    {
+      "url": "https://www.irctc.co.in/",
+      "crawlTime": 1,
+      "waitTime": 4,
+      "threshold": 8
+    },
+    {
+      "url": "https://www.facebook.com/",
+      "crawlTime": 1,
+      "waitTime": 4,
+      "threshold": 8
+    }
+]
